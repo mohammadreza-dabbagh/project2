@@ -1,2 +1,5 @@
-# project2
-الگوریتم آ استار بهبود یافته و کاربرد آن
+Tom-Jerry
+Installation
+pip install -r requirements.txt
+To Run
+python main.py
